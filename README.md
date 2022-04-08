@@ -10,18 +10,16 @@ class About extends Me
     public function helloWorld(): array
     {
         return [
-            "🔍" => "My name is Jeremy",
-            "📌" => "I live in Paris",
-            "🎓" => "I'm student at ESGI School",
-            "💼" => "I'm Fullstack Web Developer Junior",
+            "🔍" => "Jeremy",
+            "📌" => "Paris",
+            "🎓" => "Student at ESGI School",
+            "💼" => "Fullstack Web Developer Junior",
         ];
     }
 }
 ```
 
 ---
-
-### I'm Lovin' It ❤
 
 <div align="center">
     
@@ -41,9 +39,6 @@ class About extends Me
 
 ---
 
-### Find me here ⬇
-
-<p>
-  <a href="https://github.com/ymerej-noyorb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p align="center">
   <a href="https://www.linkedin.com/in/jeremy-broyon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
