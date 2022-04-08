@@ -21,6 +21,8 @@ class About extends Me
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymerej-noyorb&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymerej-noyorb&show_icons=true&theme=github_dark&count_private=true&hide=stars,issues,contribs)
 
 ---
